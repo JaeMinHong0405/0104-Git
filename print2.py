@@ -23,9 +23,13 @@ def print2():
 # 3) git add . 
 # (수정된 파일 전부 다 upstaging 하기 위한 작업)
 
-# git status 
+# 4) git status 
 # 파일 수정 체크
 
-# git push origin main
+# 5) git commit -m "[committed_version_name]"
+# commit을 하셔야 file change가 되어서 이 부분을 꼭 하셔야해요!
 
-# 하시면 저희가 원래 해야했던 방법대로 과제 마치게 되는것같습니다!! 어저께 잘못 이해해서 죄송합니다 ㅠㅠㅠㅠ
+# 6) git push origin main
+
+# 이렇게 까지 하시면 저희가 원래 해야했던 방법대로 과제 마치게 됩니다..!! 어저께 잘못 이해해서 죄송합니다 ㅠㅠㅠㅠ
+# 혹시라도 수정해야할부분이 있거나 피드백이 있으시면 카톡 편하게 주세요!! 감사합니다
